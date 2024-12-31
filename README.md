@@ -1,7 +1,6 @@
 # 안녕하세요! 👋  
 저는 **장현성**입니다.
 
-![프로필 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcmAZgs%2FbtsLbQDOTi4%2FwOfr3Ed4fpKMo2ifd9CBjK%2Fimg.jpg)
 
 ---
 
