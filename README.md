@@ -48,7 +48,7 @@
 
 ## 📈 경험과 프로젝트
 ### 1. 프로젝트: **MSA 기반 책 쇼핑몰 개발**  
-### github: https://github.com/nhnacademy-be8-TripleSeven
+### https://github.com/nhnacademy-be8-TripleSeven
 - **기간**: 2024년 12월 ~ 2025년 2월  
 - **역할**: 백엔드 개발  
 - **목표 및 설명**:  
