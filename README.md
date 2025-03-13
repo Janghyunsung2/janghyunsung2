@@ -63,7 +63,7 @@ https://www.nhn24.shop/frontend/
  
 ### 2. 프로젝트: **커뮤니티 웹사이트 개발**
 ### https://github.com/Janghyunsung2/community
-### https://www.ontheit.site/
+https://www.ontheit.site/
 - **기간**: 2025.02.08 ~ 진행중
 - **역할**: 프론트 + 백엔드 개발
 - **목표 및 설명**:
