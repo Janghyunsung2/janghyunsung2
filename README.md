@@ -49,6 +49,7 @@
 ## 📈 경험과 프로젝트
 ### 1. 프로젝트: **MSA 기반 책 쇼핑몰 개발**  
 ### https://github.com/nhnacademy-be8-TripleSeven
+https://www.nhn24.shop/frontend/
 - **기간**: 2024년 12월 ~ 2025년 2월  
 - **역할**: 도서, 카테고리, SKM, Spring cache, 검색(엘라스틱서치)  
 - **목표 및 설명**:  
@@ -62,6 +63,7 @@
  
 ### 2. 프로젝트: **커뮤니티 웹사이트 개발**
 ### https://github.com/Janghyunsung2/community
+### https://www.ontheit.site/
 - **기간**: 2025.02.08 ~ 진행중
 - **역할**: 프론트 + 백엔드 개발
 - **목표 및 설명**:
