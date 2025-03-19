@@ -52,6 +52,7 @@
 https://www.nhn24.shop/frontend/
 - **기간**: 2024년 12월 ~ 2025년 2월  
 - **역할**: 도서, 카테고리, SKM, Spring cache, 검색(엘라스틱서치)  
+- **기술**: spring, javascript, nginx, nhncloud, redis, mysql, elasticsearch
 - **목표 및 설명**:  
   - MSA(Microservices Architecture) 설계를 통한 책 쇼핑몰 플랫폼 개발  
   - 사용자 계정 관리, 장바구니, 결제 기능 등 핵심 모듈 개발  
@@ -62,13 +63,28 @@ https://www.nhn24.shop/frontend/
   - secure key manager 구현
  
 ### 2. 프로젝트: **커뮤니티 웹사이트 개발**
-### https://github.com/Janghyunsung2/community
+### https://github.com/Janghyunsung2/community 
+### https://github.com/Janghyunsung2/community-front
+
 https://www.ontheit.site/
-- **기간**: 2025.02.08 ~ 진행중
-- **역할**: 프론트 + 백엔드 개발
+- **기간**: 2025년 2월 ~ 2025년 3월
+- **역할**: ALL
+- **기술**: spring, next.js, nginx, aws, redis, postqre
 - **목표 및 설명**:
   - 확장성 있는 설계를 통해 웹 커뮤니티 사이트 개발 및 크로스플랫폼을 이용한 앱개발
   - 원활한 chating기능 구현
+ 
+### 3. 프로젝트: **게임블로그**
+- **기간**:
+- **역할**: ALL
+- **목표 및 설명**:
+- 블로그 시스템 개발
+- 게임 요소 개발(레벨, 경험치, 직업, 전직, 아이템, 스킬)
+- 재화, 결제 시스템 개발
+- 파티 시스템 개발
+- 컨텐츠 개발(..)
+
+
 
 ---
 
