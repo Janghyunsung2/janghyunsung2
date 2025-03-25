@@ -49,7 +49,7 @@
 ## 📈 경험과 프로젝트
 ### 1. 프로젝트: **MSA 기반 책 쇼핑몰 개발**  
 ### https://github.com/nhnacademy-be8-TripleSeven
-https://www.nhn24.shop/frontend/
+https://www.nhn24.shop/frontend/ (현재 배포 중단됌)
 - **기간**: 2024년 12월 ~ 2025년 2월  
 - **역할**: 도서, 카테고리, SKM, Spring cache, 검색(엘라스틱서치)  
 - **기술**: spring, javascript, nginx, nhncloud, redis, mysql, elasticsearch
