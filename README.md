@@ -73,6 +73,15 @@ https://www.ontheit.site/
 - **목표 및 설명**:
   - 확장성 있는 설계를 통해 웹 커뮤니티 사이트 개발 및 크로스플랫폼을 이용한 앱개발
   - 원활한 chating기능 구현
+  - 
+
+### 3. 프로젝트 ** 온라인 커피주문 웹앱 개발
+
+- **기간**: 2025년 4월 예정 ~ 진행중
+- **역할**: ALL
+- **기술**: spring, react, nginx, oracle cloud, redis, mysql, rebitMQ
+- **목표 및 설명**:
+  - 커피주문개발
  
 
 
