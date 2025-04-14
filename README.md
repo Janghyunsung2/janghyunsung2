@@ -69,7 +69,7 @@ https://www.nhn24.shop/frontend/
 https://www.ontheit.site/
 - **기간**: 2025년 2월 ~ 2025년 3월
 - **역할**: ALL
-- **기술**: spring, next.js, nginx, aws, redis, postqre
+- **기술**: spring, next.js, nginx, aws, redis, postqre, JWT, rebitMQ
 - **목표 및 설명**:
   - 웹 커뮤니티 개발
   - 채팅기능 구현
