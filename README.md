@@ -71,9 +71,8 @@ https://www.ontheit.site/
 - **역할**: ALL
 - **기술**: spring, next.js, nginx, aws, redis, postqre
 - **목표 및 설명**:
-  - 확장성 있는 설계를 통해 웹 커뮤니티 사이트 개발 및 크로스플랫폼을 이용한 앱개발
-  - 원활한 chating기능 구현
-  - 
+  - 웹 커뮤니티 개발
+  - 채팅기능 구현
 
 ### 3. 프로젝트 ** NHN ACADEMY LMS 개발
 
