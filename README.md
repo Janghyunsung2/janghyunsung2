@@ -7,7 +7,7 @@ Java Spring Boot, React Native, Elasticsearch, RabbitMQ 등 다양한 기술을 
 
 ## 🧩 Projects
 
-### 📚 NHN24 북 쇼핑몰
+### 📚 NHN24 북 쇼핑몰 (7인 팀프로젝트)
 https://nhn24.shop
 - **구조**: MSA 기반
 - **담당**: 북 검색, 카테고리 검색 기능
