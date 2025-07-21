@@ -1,4 +1,4 @@
-# 👋 Hi, I'm tlswlfk
+# 👋 Hi, I'm hyunsung
 
 백엔드 중심의 풀스택 개발자로, MSA 구조와 실전형 프로젝트를 기반으로 꾸준히 성장 중입니다.  
 Java Spring Boot, React Native, Elasticsearch, RabbitMQ 등 다양한 기술을 경험하며 앱 배포까지 직접 해냈습니다.
