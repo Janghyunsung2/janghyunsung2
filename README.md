@@ -17,21 +17,6 @@ https://nhn24.shop
 
 ---
 
-### 🗣️ 커뮤니티 사이트 - *OntheIt*
-https://ontheit.site
-- **목표**: JWT 이해 및 Spring Boot 실전 감각 익히기
-- **기술 스택**: Spring Boot, JWT, REST API
-- **특이사항**: 로그인/인증 흐름 전반 직접 구현
-
----
-
-### 🏢 NHN Academy 멀티모듈 MSA 프로젝트
-- **구조**: 멀티모듈 + MSA
-- **개발 범위**: 서버사이드 API + 뷰 템플릿 렌더링 모두 구현
-- **기술 스택**: Spring Boot, Thymeleaf, REST
-
----
-
 ### 📱 리액트 네이티브 기반 AI 감정 일기 앱
 https://dairyyojung.shop
 - **구조**: Spring Boot MSA + 멀티모듈 백엔드 + React Native 앱
@@ -45,18 +30,5 @@ https://dairyyojung.shop
 
 ---
 
-## 💡 기술 키워드
-
-`Spring Boot` `MSA` `JWT` `Elasticsearch` `RabbitMQ`  
-`React Native` `REST API` `멀티모듈` `CI/CD` `앱스토어 배포`
-
----
-
-## ✨ 목표
-
-서비스의 처음부터 끝까지 책임질 수 있는 백엔드 개발자를 목표로 하고 있으며,  
-실제 사용자가 있는 서비스를 만들고 운영하는 것에 가치를 두고 있습니다.
-
----
 
 📫 Contact: tlswlfk@gmail.com
